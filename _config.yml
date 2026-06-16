@@ -56,11 +56,11 @@ header_pages:
 # [추가된 부분] 언어별 사이트 타이틀 및 설명 설정
 # ----------------------------------------------------------------
 titles:
-  ko: "Smiles Life - 성공적인 투자를 위한 시선"
-  en: "Smiles Life - A Perspective for Successful Investing"
-  ja: "Smiles Life - 成功する投資のための視点"
-  zh-TW: "Smiles Life - 成功投资的视角"
-  es: "Smiles Life - Una perspectiva para una inversión exitosa"
+  ko: "성공적인 투자를 위한 시선"
+  en: "A Perspective for Successful Investing"
+  ja: "成功する投資のための視点"
+  zh-TW: "成功投资的视角"
+  es: "Una perspectiva para una inversión exitosa"
 
 descriptions:
   ko: "Smiles Life의 우량주, ETF 등 투자에 대한 마인드셋"
